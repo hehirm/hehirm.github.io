@@ -30,3 +30,5 @@ comments:
 
 plugins:
  - jekyll-feed
+
+remote_theme: "contrast"
